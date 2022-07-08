@@ -1,2 +1,4 @@
-# examen_integrador
+#Examen_Integrador
+Santiago Correa
+Rocky Montero
 Bruno Gimenez
